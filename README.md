@@ -1,5 +1,5 @@
 # 💫 About Me:
-I was born in Pakistan, grew up in Spain and am currently studying in the UK. I have a diverse multicultural background, a flexible mindset, and technical skills in Python, Java, C++, Git, and SQL. I am constantly eager to learn more, both technically and from other people's experiences and stories.
+I was born in Pakistan, grew up in Spain and am currently studying in the UK. I have a diverse multicultural background, a flexible mindset, and technical skills in C++, Git,SQL JavaScript and it's framework. I am constantly eager to learn more, both technically and from other people's experiences and stories.
 
 
 ## 🌐 Socials:
